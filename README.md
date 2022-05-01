@@ -1,1 +1,1 @@
-# template nextjs test with typescript
+# nextjs + typescript + jest template
