@@ -1,1 +1,5 @@
-# nextjs + typescript + jest template
+# nextjs test template
+
+- jest
+- testing-library/react
+- cypress
